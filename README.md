@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayan
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Python, Java, HTML5 and CSS3**
 - 📫 How to reach me: **aynry04@gmail.com**
 
 <!---
